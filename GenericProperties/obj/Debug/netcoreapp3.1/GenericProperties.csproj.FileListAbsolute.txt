@@ -1,0 +1,12 @@
+/Users/antonio/Projects/GenericProperties/GenericProperties/bin/Debug/netcoreapp3.1/GenericProperties.deps.json
+/Users/antonio/Projects/GenericProperties/GenericProperties/bin/Debug/netcoreapp3.1/GenericProperties.runtimeconfig.json
+/Users/antonio/Projects/GenericProperties/GenericProperties/bin/Debug/netcoreapp3.1/GenericProperties.runtimeconfig.dev.json
+/Users/antonio/Projects/GenericProperties/GenericProperties/bin/Debug/netcoreapp3.1/GenericProperties.dll
+/Users/antonio/Projects/GenericProperties/GenericProperties/bin/Debug/netcoreapp3.1/GenericProperties.pdb
+/Users/antonio/Projects/GenericProperties/GenericProperties/obj/Debug/netcoreapp3.1/GenericProperties.csprojAssemblyReference.cache
+/Users/antonio/Projects/GenericProperties/GenericProperties/obj/Debug/netcoreapp3.1/GenericProperties.AssemblyInfoInputs.cache
+/Users/antonio/Projects/GenericProperties/GenericProperties/obj/Debug/netcoreapp3.1/GenericProperties.AssemblyInfo.cs
+/Users/antonio/Projects/GenericProperties/GenericProperties/obj/Debug/netcoreapp3.1/GenericProperties.csproj.CoreCompileInputs.cache
+/Users/antonio/Projects/GenericProperties/GenericProperties/obj/Debug/netcoreapp3.1/GenericProperties.dll
+/Users/antonio/Projects/GenericProperties/GenericProperties/obj/Debug/netcoreapp3.1/GenericProperties.pdb
+/Users/antonio/Projects/GenericProperties/GenericProperties/obj/Debug/netcoreapp3.1/GenericProperties.genruntimeconfig.cache
